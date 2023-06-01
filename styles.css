@@ -1,0 +1,22 @@
+div{
+    display:flex;
+    justify-content:center;
+}
+
+img {
+    width:200px;
+}
+
+h1 {
+    color:darkgreen;
+}
+
+h2 {color:darkgreen;
+}
+
+ul {color:darkgreen;
+}
+
+body {background-color:white;
+}
+
